@@ -1,4 +1,6 @@
 def funkcja():
     print("####")
 
+
 logg
+
