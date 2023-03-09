@@ -1,2 +1,4 @@
-def funkcja()
+def funkcja():
     print("####")
+
+funkcja()
