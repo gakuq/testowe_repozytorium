@@ -1,7 +1,7 @@
 def funkcja():
     print("####")
 
-funkcja()
+logging
 
 funkcja()
 funkcja()
