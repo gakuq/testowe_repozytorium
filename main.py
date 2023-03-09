@@ -1,4 +1,4 @@
 def funkcja():
     print("####")
 
-funkcja()
+logg
